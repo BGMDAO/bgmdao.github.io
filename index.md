@@ -18,13 +18,13 @@ BGM token is a 100% fair launch token with no presale, whitelist, nor any pre-al
 
 ## MAX SUPPLY:1,000,000,000,000
 
- - 15% Community AirDrop
+ - 15% Community Marketing & AirDrop
  - 25% PancakeSwap(Locked)
  - 25% DAO Treasure
  - 35% Farming rewards with BSC gem projects
  - Sell Tax: 
-  - 3% to dev
-  - 7% to burn
+  -- 3% to dev
+  -- 7% to burn
 
 
 # BSC Contract Address
@@ -42,3 +42,7 @@ BGM token is a 100% fair launch token with no presale, whitelist, nor any pre-al
 - community contests
 - and more
 
+```
+ www.bgmdao.com
+ 
+```
