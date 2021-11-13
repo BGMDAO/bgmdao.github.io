@@ -15,6 +15,7 @@
     <header>
       <div class="container">
         <a id="a-title" href="{{ '/' | relative_url }}">
+          <div class="logo-img" ><img src="{{ '/assets/images/icon.png' | relative_url }}"></div>
           <h1>{{ site.title | default: site.github.repository_name }}</h1>
         </a>
         <h2>{{ site.description | default: site.github.project_tagline }}</h2>
@@ -24,7 +25,7 @@
             <a href="#" class="btn">Buy $BGM</a>
             <a href="#" class="btn">Chart</a>
           {% endif %}
-          <a href="https://twitter.com/BGMDAO" class="btn btn-"><span class="icon"><i class="bi bi-twitter"></i></span>Latest news</a>
+          <a href="https://twitter.com/BGMDAO" class="btn btn-">Twitter</a>
         </section>
       </div>
     </header>
