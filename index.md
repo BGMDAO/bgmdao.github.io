@@ -10,15 +10,15 @@ The Binance Smart Chain is not lack of gems, but the lack of discovery of the hu
 Meanwhile, BGM DAO will also actively participate in the ecological construction of BSC (DEFI, GAMEFI) and contribute to the development and improvement of BSC.
 
 
-## BSC gems hunters around the world, UNITE! 
+### BSC gems hunters around the world, UNITE! 
 
-BGM token is a 100% fair launch token with no presale, whitelist, nor any pre-allocated tokens. liquidity added on pancakeswap will be locked for at least 10 years.
+BGM token is a 100% fair launch token with no presale, whitelist, nor any pre-allocated tokens. Liquidity added on PancakeSwap will be locked for at least 10 years.
 
 # Tokenomics
 
  - MAX SUPPLY:1,000,000,000,000
  - 15% Community Marketing & AirDrop
- - 25% PancakeSwap(Locked)
+ - 25% PancakeSwap (Locked)
  - 25% DAO Treasure
  - 35% Farming rewards with BSC gem projects
  - Sell Tax: 
@@ -27,21 +27,22 @@ BGM token is a 100% fair launch token with no presale, whitelist, nor any pre-al
 
 
 # BSC Contract Address
-0x
+Comming soon
 
 # Roadmap
 
 
-- website
-- fair token launch
-- shill marketing
-- coingecko & coinmarketcap
+- Website
+- Fair token launch
+- Shill marketing
+- Coingecko & Coinmarketcap
 - Airdrop 
 - Commercial Cooperation with BSC gems projects
-- community contests
-- and more
+- Community contests
+- And more
 
 ```
+
 There are gems of wondrous brightness
 Ofttimes lying at our feet,
 And we pass them, walking thoughtless,
