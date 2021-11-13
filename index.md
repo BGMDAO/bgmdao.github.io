@@ -20,8 +20,8 @@ BGM token is a 100% fair launch token with no presale, whitelist, nor any pre-al
  - 25% DAO Treasure
  - 35% Farming rewards with BSC gem projects
  - Sell Tax: 
-  - 1% to dev
-  - 9% to burn
+  - 3% to dev
+  - 7% to burn
 
 
 # BSC Contract Address
