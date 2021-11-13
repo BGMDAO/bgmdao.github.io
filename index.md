@@ -7,6 +7,9 @@ layout: default
 
 The Binance Smart Chain is not lack of gems, but the lack of discovery of the hunters in the eyes.There are many gems born every moment, waiting for us to discover them. The BGM DAO is dedicated to connecting all the bsc gems hunters in the world to discover the treasures hidden in bsc together.
 
+Meanwhile, BGM DAO will also actively participate in the ecological construction of BSC (DEFI, GAMEFI) and contribute to the development and improvement of BSC.
+
+
 ## BSC gems hunters around the world, UNITE! 
 
 BGM token is a 100% fair launch token with no presale, whitelist, nor any pre-allocated tokens. liquidity added on pancakeswap will be locked for at least 10 years.
