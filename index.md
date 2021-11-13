@@ -16,8 +16,7 @@ BGM token is a 100% fair launch token with no presale, whitelist, nor any pre-al
 
 # Tokenomics
 
-## MAX SUPPLY:1,000,000,000,000
-
+ - MAX SUPPLY:1,000,000,000,000
  - 15% Community Marketing & AirDrop
  - 25% PancakeSwap(Locked)
  - 25% DAO Treasure
