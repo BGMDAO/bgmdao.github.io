@@ -37,7 +37,7 @@ Comming soon
 - Shill marketing
 - Coingecko & Coinmarketcap
 - Airdrop 
-- Commercial Cooperation with BSC gems projects
+- Commercial Cooperation with BSC gems projects (GameFi&DeFi)
 - Community contests
 - And more
 
