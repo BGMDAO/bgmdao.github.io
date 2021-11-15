@@ -5,7 +5,7 @@ layout: default
 
 # About BGM DAO
 
-The blockchain is not lack of gems, but the lack of discovery of the hunters in the eyes.There are many gems born every moment, waiting for us to discover them. The BGM DAO is dedicated to connecting all the bsc gems hunters in the world to discover the treasures hidden in bsc together.
+The blockchain is not lack of gems, but the lack of discovery of the hunters in the eyes.There are many gems born every moment, waiting for us to discover them. The BGM DAO is dedicated to connecting all the crypto gems hunters in the world to discover the treasures hidden in crypto world together.
 
 
 ### Crypto gems hunters around the world, UNITE! 
