@@ -19,9 +19,7 @@ BGM token is a 100% fair launch token with no presale, whitelist, nor any pre-al
  - 25% PancakeSwap (Locked):
  - 25% DAO Treasure
  - 35% Farming rewards with gem projects
- - Sell Tax: 
-   - 3% to dev
-   - 7% to burn
+
 
 
 # Contract Address
